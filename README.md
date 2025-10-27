@@ -18,8 +18,10 @@ Code developed by:
 - Sohaib Afifi 
 
 ## **License**
-# 🧠 
+
+- [**<span style="color:#0366d6">MIT license</span>**](https://opensource.org/licenses/MIT)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.10+-yellow.svg)](https://www.python.org/)
+
 
