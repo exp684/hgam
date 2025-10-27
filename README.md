@@ -18,11 +18,8 @@ Code developed by:
 - Sohaib Afifi 
 
 ## **License**
-
-# 🧠 DigitalTwin-Industry
+# 🧠 
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.10+-yellow.svg)](https://www.python.org/)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
-[![Made with ❤️ at Mines Saint-Étienne](https://img.shields.io/badge/made%20with-%E2%9D%A4-red.svg)]()
 
