@@ -1,7 +1,7 @@
 
 ---
 
-### **Hybrid Graph Attention Model [HGAM]** 
+# **Hybrid Graph Attention Model [HGAM]** 
 
 This repository contains the source code associated to the paper "A Graph Attention Model for the Team Orienteering Problem", by Iván Peña-Arenas, Rym Nesrine Guibadj, Cyril Fonlupt and Sohaib Afifi. This paper has been presented at the 2nd International Symposium on Intelligent Technology for Future Transportation (ITFT 2025).
 
